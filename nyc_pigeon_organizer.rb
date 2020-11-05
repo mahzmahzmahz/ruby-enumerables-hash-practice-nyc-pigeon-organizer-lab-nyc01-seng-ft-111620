@@ -6,5 +6,5 @@ def nyc_pigeon_organizer(data)
 end
   
   # write your code here!
-  binding.pry
+  #binding.pry
 end
