@@ -8,6 +8,7 @@ def nyc_pigeon_organizer(data)
       name.each do |
     end
   end
+  final_array
 
   
     
